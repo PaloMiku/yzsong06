@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Yzsong06's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzsong06&count_private=true&show_icons=true&theme=radical)
+![Yzsong06's GitHub stats](https://yzsong06-stat-card.vercel.app/api?username=yzsong06&count_private=true&show_icons=true&theme=radical)
 <!--
 **yzsong06/yzsong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
